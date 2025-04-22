@@ -86,9 +86,7 @@ Select **GPT-3.5 Turbo**, and watch the app:
 
 ## 🖼 Demo Preview
 
-| Text Summary | Audio Player | AI Thumbnail |
-|--------------|--------------|---------------|
-| ![text](https://via.placeholder.com/300x100?text=Summary) | ![audio](https://via.placeholder.com/300x100?text=Audio+Player) | ![image](https://via.placeholder.com/150?text=Thumbnail) |
+https://github.com/user-attachments/assets/fc72529f-4fea-4d44-8dca-1a9a4a25b1fd
 
 ---
 
